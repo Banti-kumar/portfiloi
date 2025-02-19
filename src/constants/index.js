@@ -45,7 +45,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Software Enginner",
     icon: mobile,
   },
   {
@@ -111,16 +111,17 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React Native Developer",
+    title: "Software Enginner",
     company_name: "Select Source International",
     icon: costa,
     iconBg: "#E6DEDD",
     date: "Nov 2022 - Nov 2024",
     points: [
-      "Developing and maintaining web applications using React Native and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developed and implemented a robust software solution that revolutionized the approval processes across departments, ensuring seamless coordination and reducing time-to-approval by 50%; this resulted in improved efficiency, enhanced collaboration, and accelerated project delivery timelines(Paperless Office).",
+      "Successfully created Data Management System using React.js, Material-Ui, Redux that allows users to upload, delete, download, favoriting, and sharing files and folders similar to Google Drive that reduces the real paper-work by 100% .",
+      "Collaborated with developers to design and develop a user- friendly front-end interface of RTI (Right to Information) application with an optimized user experience; boosted user engagement by 25% and reduced bounce rate by 15% .",
+      "Orchestrated the development of algorithms, API integration and flowchart with a team of 5 developers ; delivered a fully functional and scalable application that processed 50K+ data points daily with 99% accuracy .",
+      "Resolve the daily basis issue, bug or any additional feature that provided in Jira by Testing Unit which makes application bug-free and updated to the current requirement by 100% .",
     ],
   },
   {
@@ -128,12 +129,13 @@ const experiences = [
     company_name: "Cross ml Private Limited",
     icon: crossml,
     iconBg: "#E6DEDD",
-    date: "Nov 2025 - Present",
+    date: "Nov 2024 - Present",
     points: [
-      "Developed and implemented a robust software solution that revolutionized the approval processes across departments, ensuring seamless coordination and reducing time-to-approval by 50%; this resulted in improved efficiency, enhanced collaboration, and accelerated project delivery timelines(Paperless Office).",
-      "Successfully created Data Management System using React.js, Material-Ui, Redux that allows users to upload, delete, download, favoriting, and sharing files and folders similar to Google Drive that reduces the real paper-work by 100% .",
-      "Collaborated with developers to design and develop a user- friendly front-end interface of RTI (Right to Information) application with an optimized user experience; boosted user engagement by 25% and reduced bounce rate by 15% .",
-      "Orchestrated the development of algorithms, API integration and flowchart with a team of 5 developers ; delivered a fully functional and scalable application that processed 50K+ data points daily with 99% accuracy .",
+      "I am responsible for managing the UI (User Interface) of the project, ensuring that it is visually appealing, user-friendly, and fully responsive. This includes implementing modern design principles, maintaining design consistency, and optimizing the user experience (UX)",
+      "In addition to UI management, I also handle cross-functional integration between the frontend and backend. This involves managing API integrations, ensuring seamless data flow, and working with state management tools like Redux to maintain application stability.",
+
+      "Beyond UI and integration, I am also responsible for AI implementation within the project. This includes integrating AI-powered features, optimizing machine learning models, and ensuring the AI-driven functionalities align with project requirements. I work with AI APIs, real-time data processing, and dynamic AI-generated content to enhance the application's intelligence and interactivity.",
+      "Furthermore, I also develop backend APIs tailored to AI-related requirements. This involves creating and optimizing server-side endpoints, handling data processing, and ensuring efficient communication between the AI models and the application.",
       "Resolve the daily basis issue, bug or any additional feature that provided in Jira by Testing Unit which makes application bug-free and updated to the current requirement by 100% .",
     ],
   },
@@ -203,6 +205,5 @@ const projects = [
 ];
 
 export { services, technologies, experiences, projects };
-
 
 // comment
